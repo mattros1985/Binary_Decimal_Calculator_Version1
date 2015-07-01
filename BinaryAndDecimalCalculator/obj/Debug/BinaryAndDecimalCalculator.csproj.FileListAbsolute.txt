@@ -1,0 +1,9 @@
+c:\users\matt\documents\visual studio 2013\Projects\BinaryAndDecimalCalculator\BinaryAndDecimalCalculator\bin\Debug\BinaryAndDecimalCalculator.exe.config
+C:\Users\Matt\documents\visual studio 2013\Projects\BinaryAndDecimalCalculator\BinaryAndDecimalCalculator\bin\Debug\BinaryAndDecimalCalculator.exe
+C:\Users\Matt\documents\visual studio 2013\Projects\BinaryAndDecimalCalculator\BinaryAndDecimalCalculator\bin\Debug\BinaryAndDecimalCalculator.pdb
+C:\Users\Matt\documents\visual studio 2013\Projects\BinaryAndDecimalCalculator\BinaryAndDecimalCalculator\obj\Debug\BinaryAndDecimalCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Matt\documents\visual studio 2013\Projects\BinaryAndDecimalCalculator\BinaryAndDecimalCalculator\obj\Debug\BinaryAndDecimalCalculator.Form1.resources
+C:\Users\Matt\documents\visual studio 2013\Projects\BinaryAndDecimalCalculator\BinaryAndDecimalCalculator\obj\Debug\BinaryAndDecimalCalculator.Properties.Resources.resources
+C:\Users\Matt\documents\visual studio 2013\Projects\BinaryAndDecimalCalculator\BinaryAndDecimalCalculator\obj\Debug\BinaryAndDecimalCalculator.csproj.GenerateResource.Cache
+C:\Users\Matt\documents\visual studio 2013\Projects\BinaryAndDecimalCalculator\BinaryAndDecimalCalculator\obj\Debug\BinaryAndDecimalCalculator.exe
+C:\Users\Matt\documents\visual studio 2013\Projects\BinaryAndDecimalCalculator\BinaryAndDecimalCalculator\obj\Debug\BinaryAndDecimalCalculator.pdb
